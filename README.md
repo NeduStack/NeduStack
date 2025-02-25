@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Django, AI, React...
 - 🌱 I’m currently learning Python, Django, Javascript, React
 - 💞️ I’m looking to collaborate on Python based projects
-- 📫 You can reachnon Nedu.stack@gmail.com
+- 📫 You can reach me on Nedu.stack@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love learning new technologies
 
